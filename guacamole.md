@@ -4,5 +4,7 @@
 * avocado
 * lime
 * salt
+* cilantro
+
 ## Instructions
 
